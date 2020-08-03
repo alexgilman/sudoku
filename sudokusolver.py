@@ -1,4 +1,4 @@
-#this is a sudoku solver in python by Alexander Gilman and Chris Gilman, using tkinter as the GUI to display the board.
+#this is a sudoku solver in python by Alexander Gilman, using tkinter as the GUI to display the board.
 import tkinter as tk
 window = tk.Tk()
 #blocks is for checking the values in the same box
